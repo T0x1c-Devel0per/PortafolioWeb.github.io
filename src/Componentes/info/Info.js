@@ -4,7 +4,7 @@ const Info = () => {
   return (
     <div className='info-container'>
         <div className='info'>
-            <h1>Let's work together</h1>
+            <h1>Frase Mamalona</h1>
         </div>
 
     </div>
