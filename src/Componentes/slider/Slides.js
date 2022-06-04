@@ -1,7 +1,4 @@
 import React from "react";
-import Photo from '../../media/Photo.jpg';
-import Photo1 from '../../media/Photo3.jpg';
-import Photo2 from '../../media/Photo4.jpg';
 import "./Slider.css";
 
 const slidesInfo = [
